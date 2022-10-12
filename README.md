@@ -12,3 +12,5 @@ Here I created a static website which provides Online book services to the book 
 ![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(16).png)
 ## Blogs Page:
 ![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(17).png)
+## Microsoft Azure Page
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(18).png)
