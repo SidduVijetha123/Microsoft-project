@@ -3,6 +3,7 @@ Here I created a static website which provides Online book services to the book 
 ## My Website Link:https://gray-sky-0786fec10.2.azurestaticapps.net
 ## Demo video link:
 ## Home Page:
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(13).png)
 ## Featured Page:
 ## Arrivals Page:
 ## Reviews Page:
