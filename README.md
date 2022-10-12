@@ -5,6 +5,10 @@ Here I created a static website which provides Online book services to the book 
 ## Home Page:
 ![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(13).png)
 ## Featured Page:
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(14).png)
 ## Arrivals Page:
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(15).png)
 ## Reviews Page:
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(16).png)
 ## Blogs Page:
+![](https://github.com/SidduVijetha123/Microsoft-project/blob/main/Screenshots/Screenshot%20(17).png)
